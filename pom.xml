@@ -56,7 +56,7 @@
 	  <dependency>
 		  <groupId>com.bluetrainsoftware.bathe</groupId>
 		  <artifactId>bathe-booter</artifactId>
-		  <version>[1.4,2)</version>
+		  <version>1.4</version>
 	  </dependency>
 
   </dependencies>
